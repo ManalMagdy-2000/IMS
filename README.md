@@ -2,30 +2,10 @@
 IMS  Platform that connects investors and admins in a seamless investment process. The platform will allow investors to browse available Murabaha projects, send investment requests, authorize payments, and view contracts. The admin will review, approve, or reject investment requests and generate related documents.
 
 
-📁 Project Directory Structure
+# 📁 Project Directory Structure
 
-IMS/
-├── api/
-│   ├── config/
-│   │   └── db.js
-│   ├── controllers/
-│   │   └── authController.js
-│   ├── middleware/
-│   │   └── authMiddleware.js
-│   ├── models/
-│   │   └── userModel.js
-│   └── routes/
-│       └── authRoutes.js
-├── app.js
-├── models/
-│   └── index.js
-├── node_modules/
-├── .env
-├── .gitignore
-├── index.js
-├── package-lock.json
-├── package.json
-└── README.md
+![image](https://github.com/user-attachments/assets/265ed649-f785-4237-b08f-7cb159c83ab2)
+
 
 🚀 Steps to Run the Backend
 
